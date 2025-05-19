@@ -18,6 +18,6 @@ while True:
     elif opcion == '2':
         print("Resultado:", restar(a, b))
     elif opcion == '3':
-        print("Resultado:", multiplicar(a, b))
+        print("Resultado:", multiplicacion(a, b))
     else:
         print("Opción inválida.")
